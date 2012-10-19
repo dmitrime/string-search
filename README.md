@@ -1,4 +1,4 @@
-Substring search project for a course in algorithms and data structures
+Substring search 
 =============
 
 Implementation of some well-known substring search algorithms.
